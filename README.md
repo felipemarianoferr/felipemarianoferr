@@ -5,7 +5,7 @@
 
 ## About Me
 
-I have a strong affinity for data science and am skilled in Python, Java, C, and beyond. I love applying computer science to domains like finance (I hold certifications in finance). I’m currently expanding my skills in computational research to resolve context-specific questions.
+I have a strong affinity for data science and am skilled in Python, Java, C, and beyond. I love applying computer science to domains like finance. I’m currently expanding my skills in computational research to resolve context-specific questions.
 
 **Languages**  
 - Portuguese (native)  
