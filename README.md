@@ -1,6 +1,6 @@
 # Felipe M. Ferreira
 
-**🎓 Computer Science Student @ Insper**  
+**🎓 Computer Science @ Insper**  
 **🔬 Research Scholar @ UIUC (Summer 2025)**
 
 ## About Me
